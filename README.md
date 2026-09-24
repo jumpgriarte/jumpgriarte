@@ -9,8 +9,7 @@ Currently based in the San Francisco Bay Area.
 
 ## 💫 About Me:
 About Me<br><br>- Full-Stack Software Engineer<br>- Focused on C#, TypeScript, JavaScript and learning Python<br>- Love building beautiful user interfaces<br>- Responsive Design Enthusiast<br>- Exploring modern web technologies
-<br>- 8 Microsoft Certifications
-MCSD • MCSA • Microsoft Specialist
+<br>- 8 Microsoft Certifications: MCSD • MCSA • Microsoft Specialist
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jumpgriarte) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jump.griarte@gmail.com) 
